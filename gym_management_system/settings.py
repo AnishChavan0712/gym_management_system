@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-rtt#ns8@@xe-^&znfg1mkwnkl2$9!$er@y6=3wcat*4!5%#-r)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gym-management-system-tftj.onrender.com']
 
 
 # Application definition
